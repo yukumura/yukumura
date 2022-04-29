@@ -1,4 +1,4 @@
-- 👋 Hello World!, I’m @yukumura
+- 👋 Hello World! I’m @yukumura
 - 👀 I'm a developer with a passion for video games.
 - 🌱 I am currently a software developer for a consulting company.
 - 🎲 In my spare time I study what I'm most passionate about: the development of video games.
