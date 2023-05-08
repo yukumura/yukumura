@@ -3,4 +3,4 @@
 - 🌱 I am currently a software developer for a consulting company.
 - 🎲 In my spare time I study what I'm most passionate about: the development of video games.
 - 🎮 I'm looking for a job as Game Developer.
-- 📫 You can reach me on https://www.linkedin.com/in/cicillonialberto/ or yukumura3d@gmail.com
+- 📫 You can reach me on https://www.linkedin.com/in/cicillonialberto/ or yukumuradota@gmail.com
